@@ -16,4 +16,4 @@ spec:
       - name: app
         image: case-study-app:latest
         ports:
-        - containerPort: 3000
+        - containerPort: 30000
