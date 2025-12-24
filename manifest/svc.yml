@@ -7,6 +7,6 @@ spec:
   selector:
     app: case-study-app
   ports:
-    - port: 3000
+    - port: 30000
       targetPort: 3020
       nodePort: 3020
